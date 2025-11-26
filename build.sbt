@@ -1,6 +1,6 @@
 val flywayPlayVersion = "9.1.0"
 
-val scalaVersion_2_13 = "2.13.17"
+val scalaVersion_2_13 = "2.13.18"
 val scalaVersion_3 = "3.3.7"
 
 val defaultFlywayVersion = "9.16.0"
